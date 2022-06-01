@@ -29,3 +29,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/blog-success?style=for-the-badge&logo=netlify&logoColor=white" alt="Blog Badge"/>
   </a>
 </div>
+
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=gdrmunoz&style=for-the-badge&color=1c2d70&label=CURRENT+VIEWS" alt=""/>
+</div>
