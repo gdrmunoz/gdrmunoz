@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=ecf05e47w1bxb6jnt4tz3ngll1hzmxtl2jp3mozwx1wic8we&rid=giphy.gif&ct=g" width="480" height="270"/>
 </div>
@@ -33,3 +34,8 @@ Here are some ideas to get you started:
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=gdrmunoz&style=for-the-badge&color=1c2d70&label=CURRENT+VIEWS" alt=""/>
 </div>
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3px"/>
+</h1>
